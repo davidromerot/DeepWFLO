@@ -1,0 +1,4 @@
+1. Run data_generation.py , this code uses new_wake_model.py to generate dataset.
+2. The generated dataset will be saved in the "images" folder
+3. Run architecture_search.ipynb to find the optimal architecture
+4. Run model_weighted_loss.ipynb file
